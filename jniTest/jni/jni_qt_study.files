@@ -1,0 +1,11 @@
+curl/curl.h
+curl/curlbuild.h
+curl/curlrules.h
+curl/curlver.h
+curl/easy.h
+curl/mprintf.h
+curl/multi.h
+curl/stdcheaders.h
+curl/typecheck-gcc.h
+com_example_jnitest_JniTest.h
+jnitest.cpp
